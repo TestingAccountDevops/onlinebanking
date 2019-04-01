@@ -1,5 +1,5 @@
 /*
- * Hibernate Utility Class
+ * Hibernate Utility Classes
  * Creates Hibernate Sessions 
  * Makes possible to access hibernate session variables.
  */
