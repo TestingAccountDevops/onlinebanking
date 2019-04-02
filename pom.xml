@@ -105,7 +105,7 @@
 			<artifactId>cglib</artifactId>
 			<version>2.2</version>
 		</dependency>
-		<!-- Hibernate Jar Ends  -->
+		<!-- Hibernate Jar Ends -->
 		<!-- Log4j for logging -->
 		<dependency>
 			<groupId>log4j</groupId>
