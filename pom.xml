@@ -57,7 +57,7 @@
 
 		</dependency>
 
-		<!-- MySQL database driver -->
+		<!-- MySQL database drivers -->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
